@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning R programming
 - 💞️ I’m looking to collaborate on projects that foster community development and personal growth
 - 📫 How to reach me on linkedIn @ https://www.linkedin.com/in/gichoya-macharia/
-
+- some of my earlier work can be seen at https://github.com/Imacharia
 <!---
 I-Macharia/I-Macharia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
