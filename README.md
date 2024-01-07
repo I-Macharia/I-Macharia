@@ -5,6 +5,10 @@
 - 💞️ I’m looking to collaborate on projects that foster community development and personal growth
 - 📫 How to reach me on LinkedIn @ https://www.linkedin.com/in/gichoya-macharia/
 - some of my earlier work can be seen at https://github.com/Imacharia
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=I-macharia&show_icons=true&locale=en" alt="I-Macharia" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=I-Macharia&" alt="I-Macharia" /></p>
 <!---
 I-Macharia/I-Macharia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
