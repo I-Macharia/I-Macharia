@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ian Macharia
 - 👀 I’m a Passionate data scientist seeking to improve standards of living one analysis at a time. Maybe Web3 is how we save mankind from AI.
 - 🌱 I’m currently learning R programming. patiently
-- ⚒ Currently working on my website : https://i-macharia.github.io/Portfolio/   Still working on it...
+- ⚒ Currently working on my website : https://i-macharia.github.io/Portfolio/   Still working on it... Suggest updates for the new site. have a look here https://v0-v0-dev-site-2a0qa54vq-i-macharias-projects.vercel.app/
 - 💞️ I’m looking to collaborate on projects that foster community development and personal growth Let's build the future together.
 - 📫 How to reach me on LinkedIn @ https://www.linkedin.com/in/gichoya-macharia/  Someone asked me who uses this as a social media app
 - some of my earlier work can be seen at https://github.com/Imacharia this account died with my school days, needs CPR.
