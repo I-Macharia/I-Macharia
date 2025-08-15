@@ -1,10 +1,21 @@
-- 👋 Hi, I’m Ian Macharia
-- 👀 I’m a Passionate data scientist seeking to improve standards of living one analysis at a time. Maybe Web3 is how we save mankind from AI.
-- 🌱 I’m currently learning R programming. patiently
-- ⚒ Currently working on my website : https://i-macharia.github.io/Portfolio/   Still working on it... Suggest updates for the new site. have a look here https://v0-v0-dev-site-2a0qa54vq-i-macharias-projects.vercel.app/
-- 💞️ I’m looking to collaborate on projects that foster community development and personal growth Let's build the future together.
-- 📫 How to reach me on LinkedIn @ https://www.linkedin.com/in/gichoya-macharia/  Someone asked me who uses this as a social media app
-- some of my earlier work can be seen at https://github.com/Imacharia this account died with my school days, needs CPR.
+# 👋 Hey there, I'm Ian Macharia
+
+I'm a forward-thinking data scientist with a passion for using analytics to elevate everyday life. Whether it's decoding trends or designing decentralized systems, I'm here to explore how data and tech can empower communities—and maybe, just maybe, Web3 is how we save mankind from AI.
+
+## 🔍 What I'm up to
+- 🌱 Currently diving into **R programming**—slow and steady wins the race.
+- ⚒ Building my personal site: [Portfolio v1](https://i-macharia.github.io/Portfolio/)  
+  → Sneak peek at the revamp: [New Site Preview](https://v0-v0-dev-site-2a0qa54vq-i-macharias-projects.vercel.app/)  
+  *Got suggestions? I'm all ears.*
+
+## 🤝 Let's collaborate
+I'm always open to projects that spark **community development**, **personal growth**, and **creative innovation**. If you're building something meaningful, let's connect and co-create the future.
+
+## 📫 Reach out
+- 💼 [LinkedIn](https://www.linkedin.com/in/gichoya-macharia/) — Yes, some folks *do* use it like social media.
+- 🧠 [Old GitHub](https://github.com/Imacharia) — A relic from my school days. Might need a little CPR.
+
+---
 
 
 ## 🌐 Socials:
