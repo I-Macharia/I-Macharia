@@ -12,7 +12,7 @@ Maybe Web3 is how we save mankind from AI. Maybe it's just the beginning.
   → Sneak peek at the revamp: [New Site Preview](https://v0-v0-dev-site-2a0qa54vq-i-macharias-projects.vercel.app/)  
   *Got suggestions? Drop me a line.*
 
-- 🧠 Refining pitch decks and creator flows for platforms like **PledgR** and **Motivate Me**
+- 🧠 Refining pitch decks and creator flows for platforms like **PledgR** , **AvaCertify** and **Motivate Me**
 
 ---
 
